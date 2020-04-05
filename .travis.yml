@@ -10,8 +10,9 @@ script:
 # deployment to github pages repo
 deploy:
   provider: pages
+  local_dir: output
   repo: $PAGES_REPO_URL
-  local_dir: /output
+  target_branch: master
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   on:
