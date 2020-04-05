@@ -6,7 +6,7 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-  - pelican content
+  - pelican content -s publishconf.py
 # deployment to github pages repo
 deploy:
   provider: pages
