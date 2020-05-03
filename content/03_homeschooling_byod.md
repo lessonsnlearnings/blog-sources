@@ -11,7 +11,7 @@ Meine Schule verfolgt den vom Kultusministerium präferierten Weg einer BYOD-Umg
 
 ## 13er Mathematik eA
 Um mit meinem Prüfungskurs in Kontakt zu bleiben und die SuS effektiv bei der Vorbereitung unterstützen zu können, hatte ich in der letzten Schulwoche **TeamViewer** als Kommunikationsplattform ausprobiert.
-Die kostenlose Version unterstützt nur maximal fünf Teilnehmer, Budget um diese Lösung für unserer Schule nutzen zu können konnte ich leider nicht erhalten (die Budgetplanungen war ja schon abgeschlossen und ich hatte leider am Schuljahresanfang vergessen an Corona zu denken :scream: ). 
+Die kostenlose Version unterstützt nur maximal fünf Teilnehmer, Budget um diese Lösung für unserer Schule nutzen zu können konnte ich leider nicht erhalten (die Budgetplanungen war ja schon abgeschlossen und ich hatte leider am Schuljahresanfang vergessen an Corona zu denken). 
 
 Mein, sich selbst als "Lieblingsschüler" betitelnder Kursteilnehmer, warf Discord als mögliche alternative ein. Da ich bisher Discord vom Zocken nicht kannte, wurde dieses mit ein paar SuS flux im Informatikunterricht ausprobiert. Funktioniert! Und die Verbindung von Text-, Voice- und Videochat inkl. Screen Sharing ist schon top, zumal die Nutzerzahl für das Screen Sharing Feature (bei denen GoLive! genannt) auf 50 Teilnehmer erhöht wurde.
 
@@ -23,7 +23,7 @@ Aktuell nutze ich die folgende Software in den angegebenen Szenarien:
 
 - **Text-\Voice-\Videochat**: [Discord](https://discordapp.com/) dient als Chat-Lösung, damit die Schüler einen direkten Kanal zur Lehrkraft bei Fragen und Problemen haben. So können schnell Telefonkonferenzen geführt und Frage in Gruppen schnell geklärt werden. Ich habe mit meinen SuS vereinbart, dass ich in den regulären Stunden des Faches/Kurses im Discord erreichbar bin.
 
-- **Support**: Um bei technischen Problemen und Bedienungsproblemen interaktiv unterstützen zu können, verwende ich [TeamViewer](https://www.teamviewer.com/de/). Vor allem in der Anfangsphase des Homeschoolings konnten so einige Klippen effektiv und zeitsparend überwunden werden. Öfter hilft auch das gute alte Telefon und ein Anruf bei einem SuS. :wink: Einmal habe ich mich auch in der Schule mit zwei besonders schweren Fällen getroffen, um Probleme direkt besprechen zu können.
+- **Support**: Um bei technischen Problemen und Bedienungsproblemen interaktiv unterstützen zu können, verwende ich [TeamViewer](https://www.teamviewer.com/de/). Vor allem in der Anfangsphase des Homeschoolings konnten so einige Klippen effektiv und zeitsparend überwunden werden. Öfter hilft auch das gute alte Telefon und ein Anruf bei einem SuS. Einmal habe ich mich auch in der Schule mit zwei besonders schweren Fällen getroffen, um Probleme direkt besprechen zu können.
 
 - **Kommunikation mit den Erziehungsberechtigten**: Da bei uns die Kommunikation über E-Mail und IServ zum Schulstandard gehört, hat sich dieser Kommunikationsweg auch nicht in der Coronazeit geändert. Natürlich kamen auch einige Anrufe usw. hinzu. Aber die etablierten Kommunikationswege haben sich einfach bewährt.
 
@@ -31,7 +31,7 @@ Aktuell nutze ich die folgende Software in den angegebenen Szenarien:
 
 ## Erfahrungen
 
-Diesen Teil reiche ich in einem Update nach. Dabei sollen die Pros und Cons der einzelnen Lösungen beleuchtet werden. Den Artikel soll dann noch eine Ausblick über weitere Gurillia-Aktivitäten abrunden :wink:. 
+Diesen Teil reiche ich in einem Update nach. Dabei sollen die Pros und Cons der einzelnen Lösungen beleuchtet werden. Den Artikel soll dann noch eine Ausblick über weitere Gurillia-Aktivitäten abrunden. 
 
 **Hören**: [Schule kann mehr-Podcast](https://www.schule-kann-mehr.de/p-o-d-c-a-s-t-s/)
 
@@ -41,4 +41,4 @@ Diesen Teil reiche ich in einem Update nach. Dabei sollen die Pros und Cons der 
 
   
 
-So long, Pet!  :octopus: ​
+So long, Pet!
